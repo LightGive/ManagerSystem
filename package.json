@@ -1,0 +1,19 @@
+{
+  "name": "jp.lightgive.managersystem",
+  "version": "1.0.0",
+  "displayName": "ManagerSystem",
+  "description": "\u81ea\u5206\u306e\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30af\u30e9\u30b9\u3092\u5229\u7528\u3059\u308b\n\u30fb\u30b7\u30fc\u30f3\u30ed\u30fc\u30c9\u524d\u306b\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u306e\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u3092\u751f\u6210\u3059\u308b",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "LightGive",
+    "email": "roi.akase@outlook.jp",
+    "url": "https://github.com/LightGive"
+  },
+  "type": "tool"
+}
