@@ -1,1 +1,4 @@
 # ManagerSystem
+Unityでシーンロード前にリストで指定したGameObject（Manager系）を生成する
+PackageManager→AddPackageFromGitからURLを指定して追加する
+自分用に作ったものなので管理等をする予定はあまり無いです。
