@@ -7,7 +7,7 @@ namespace LightGive.ManagerSystemEditor
 	/// <summary>
     /// ManagerCreatorのインスペクター拡張
     /// </summary>
-	[CustomEditor(typeof(ManagerCreator))]
+	[CustomEditor(typeof(LightGive.ManagerSystem.ManagerCreator))]
     public class ManagerCreatorEditor : Editor
 	{
 		private SerializedProperty m_isCheckLogProp;
